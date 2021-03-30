@@ -1,0 +1,20 @@
+.title .edit-icon {
+    opacity: 0;
+    transition: all 0.5s;
+    cursor: pointer;
+}
+
+.title:hover .edit-icon {
+    opacity: 1;
+}
+
+.title {
+    margin-top: 20px;
+    font-size: x-large;
+}
+
+.inputfield {
+    margin-top: 20px;
+    text-align: center;
+    height: 50px;
+}
